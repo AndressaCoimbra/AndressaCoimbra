@@ -5,7 +5,7 @@
 
 ➛ 💬 Pergunte-me sobre algo que você tenha interesse...
 
-➛ Como entrar em contato comigo: @__acoimbra 💕
+➛ Como entrar em contato comigo, meu Instagram é esse: @__acoimbra 💕
 
 
 
