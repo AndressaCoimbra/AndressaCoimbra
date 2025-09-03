@@ -5,35 +5,49 @@
 
 
 
-ִ ࣪𖤐 Oi genteee, meu nome é Andressa ou pros mais intimos "dessa", atualmente estou aprendendo lógica de programação e noções de informática básica como parte da minha jornada na área de tecnologia. Estou no terceiro ano do Ensino Médio, como eu cheguei aqui? Bom, só Deus sabe. 
+ִ ࣪𖤐 Oi genteee, meu nome é Andressa ou pros mais intimos "dessa", atualmente estou aprendendo lógica de programação e noções de informática básica como parte da minha jornada na área de tecnologia. Estou no terceiro ano do Ensino Médio, como eu cheguei aqui? Bom, só Deus sabe.
+
+![Modo Dev](https://img.shields.io/badge/Modo%20Dev-Ativado%20✅-success)
+![Compilando ideias](https://img.shields.io/badge/Compilando-ideias%20aleatórias-6f42c1)
+
 
 ## Sobre mim 😁: 
 - Tenho 17 anos e sou uma pessoa naturalmente extrovertida (com meus amigos) e curiosa, adoro questionar e também sou bem estressada. Adoro me dispor para explorar novos conhecimentos, e estou na aventura da área da tecnologia (não é muito minha praia mas, tentamos 🥲)
 
 - 🫶🏻 Apaixonada por filmes de ação, séries, comédia romântica, muita música e livros de romance. 
 
-- 🧩 Meu sonho é ser psicologa e por isso adoro resolver problemas (exceto os de Linux 😅)
+- 🧩 Meu sonho é ser psicologa e por isso adoro resolver problemas (exceto os de Linux 😅) Mas enquanto isso, estou explorando a área da tecnologia para unir novos conhecimentos. 
 
 ## Atualmente estou estudando (ou já estudei) 📚:
 - HTML, CSS, JavaScript, Java, Python, Linguagem C, PHP e Pascal. 
 - Git e GitHub (mas tá difícil) 😶
 
 ## 🔥 𝙃𝙖𝙧𝙙 𝙎𝙠𝙞𝙡𝙡𝙨 (ou pelo menos era pra ser): 
-Github, VSCode! 
+• Ferramentas: Git, VSCode.
+
+• Conceitos: Lógica de programação, Web básica.
+
+## Áreas (ou coisas que eu mais me interesso)  🤔: 
+Gosto muito de criar sites, fazer designs e também estou adorando montar um Readme! 
 
 ## 𝙈𝙚𝙪𝙨 𝙥𝙧𝙤𝙟𝙚𝙩𝙤𝙨:
 Ainda estão sendo teleportados do meu cérebro para o GitHub... aguarde! 🧏🏻‍♀️
 
-➛ 💬 Pergunte-me sobre algo que você tenha interesse...
+➛ Enquanto isso, pergunte-me sobre algo que você tenha interesse...
 
-## Como me achar: 🫣
-➛ Você me encontra por aqui:
-- LinkedIn: prometo que vou criar um em breve rs 😅
-- Instagram: @__acoimbra 💕
-- E-mail: andressacoimbra187@gmail.com
+## Como me achar 🫣:
 
-![Modo Dev](https://img.shields.io/badge/Modo%20Dev-Ativado%20✅-success)
-![Compilando ideias](https://img.shields.io/badge/Compilando-ideias%20aleatórias-6f42c1)
+➛ Só clicar! 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+* Será feito em breve! 😅*
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__acoimbra)  
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andressacoimbra187@gmail.com)
+
+
+
 
 
 <center><img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="250" height="250" /></center>
