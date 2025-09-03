@@ -11,7 +11,7 @@
 ![Compilando ideias](https://img.shields.io/badge/Compilando-ideias%20aleatórias-6f42c1)
 
 
-## Sobre mim 😁: 
+## The story so far ✍🏻: 
 - Tenho 17 anos e sou uma pessoa naturalmente extrovertida (com meus amigos) e curiosa, adoro questionar e também sou bem estressada. Adoro me dispor para explorar novos conhecimentos, e estou na aventura da área da tecnologia (não é muito minha praia mas, tentamos 🥲)
 
 - 🫶🏻 Apaixonada por filmes de ação, séries, comédia romântica, muita música e livros de romance. 
@@ -30,24 +30,24 @@
 ## Áreas (ou coisas que eu mais me interesso)  🤔: 
 Gosto muito de criar sites, fazer designs e também estou adorando montar um Readme! 
 
-## 𝙈𝙚𝙪𝙨 𝙥𝙧𝙤𝙟𝙚𝙩𝙤𝙨:
+## My Projects:
 Ainda estão sendo teleportados do meu cérebro para o GitHub... aguarde! 🧏🏻‍♀️
 
 ➛ Enquanto isso, pergunte-me sobre algo que você tenha interesse...
 
-## Como me achar 🫣:
+## Hunt me down 🫣:
 
-➛  Só clicar! 
+➛  Press here, don’t be shy! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-* Será feito em breve! 😅*
+* Coming soon! 😅*
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__acoimbra)  
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andressacoimbra187@gmail.com)
 
-
-
-
-
-<center><img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="250" height="250" /></center>
+<p align="center"> 
+  If you’re reading this… congrats, you survived my README!<br>
+  Now go explore my codes and chaos.<br>
+  See you around! 👋🏻
+</p>
