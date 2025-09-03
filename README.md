@@ -37,7 +37,7 @@ Ainda estão sendo teleportados do meu cérebro para o GitHub... aguarde! 🧏�
 
 ## Como me achar 🫣:
 
-➛ Só clicar! 
+➛  Só clicar! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
 * Será feito em breve! 😅*
