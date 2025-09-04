@@ -28,8 +28,10 @@
 
 • Conceitos: Lógica de programação, Web básica.
 
-## Áreas (ou coisas que eu mais me interesso)  🤔
-Gosto muito de criar sites, fazer designs e também estou adorando montar um Readme! 
+• Facilidade com escritas (redação).
+
+## Áreas (ou coisas que eu mais me interesso) na programação 🤔
+Gosto muito de criar sites (código pronto e personalizo rs), fazer designs e também estou adorando montar um Readme! 
 
 ## My Projects ⏱️
 Uploading chaos from my brain to GitHub… standby 🫠
@@ -53,4 +55,8 @@ I’ll be on LinkedIn soon 😅
   If you’re reading this… congrats, you survived my README!<br>
   Now go explore my codes and chaos.<br>
   See you around! 👋🏻
+</p>
+
+<p align="center"> 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/dbb0e72a-b5c4-4a69-9c46-57d17e350441" />
 </p>
