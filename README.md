@@ -54,7 +54,7 @@ I’ll be on LinkedIn soon 😅
 <p align="center"> 
   If you’re reading this… congrats, you survived my README!<br>
   Now go explore my codes and chaos.<br>
-  See you around! 👋🏻
+  See you around! 👋🏻 
 </p>
 
 <p align="center"> 
