@@ -31,7 +31,7 @@
 • Facilidade com escritas (redação).
 
 ## Áreas (ou coisas que eu mais me interesso) na programação 🤔
-Gosto muito de criar sites (código pronto e personalizo rs), fazer designs e também estou adorando montar um Readme! 
+Gosto muito de "criar" e personalizar sites, fazer designs e também estou adorando montar um Readme! 
 
 ## My Projects ⏱️
 Uploading chaos from my brain to GitHub… standby 🫠
