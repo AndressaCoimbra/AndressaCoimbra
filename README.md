@@ -32,7 +32,7 @@
 Gosto muito de criar sites, fazer designs e também estou adorando montar um Readme! 
 
 ## My Projects ⏱️
-Ainda estão sendo teleportados do meu cérebro para o GitHub... aguarde! 🧏🏻‍♀️
+Uploading chaos from my brain to GitHub… standby 🫠
 
 ➛ Enquanto isso, pergunte-me sobre algo que você tenha interesse...
 
