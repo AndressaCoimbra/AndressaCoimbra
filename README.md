@@ -40,7 +40,7 @@ Ainda estão sendo teleportados do meu cérebro para o GitHub... aguarde! 🧏�
 
 ➛  Press here, don’t be shy! 
 
-* Coming soon! 😅*
+I’ll be on LinkedIn soon 😅
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
 
