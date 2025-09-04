@@ -40,8 +40,10 @@ Ainda estão sendo teleportados do meu cérebro para o GitHub... aguarde! 🧏�
 
 ➛  Press here, don’t be shy! 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
 * Coming soon! 😅*
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__acoimbra)  
 
